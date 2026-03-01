@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sai Pavan 👋
 
-<!--
-**simple-26/simple-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am an aspiring software developer focused on building strong programming fundamentals and improving problem-solving skills.  
+I actively practice coding and build small projects to enhance my understanding.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Programming Fundamentals
+- Object-Oriented Concepts
+- Problem Solving
+- Basic Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 What You'll Find Here
+- Practice programs
+- Mini projects
+- Learning experiments
+- Problem-solving solutions
+
+## 📈 Currently Working On
+- Improving logical thinking
+- Building consistent coding habits
+- Exploring new technologies
+
+## 🤝 Connect With Me
+Open to learning, collaboration, and entry-level opportunities.
