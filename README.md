@@ -11,7 +11,7 @@ I actively practice coding and build small projects to enhance my understanding.
 - Problem Solving
 - Basic Web Development
   
-## **📊Contribution Stats**
+## **📊Activity Overview**
 <table>
 <tr>
 <td>
