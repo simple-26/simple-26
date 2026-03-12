@@ -10,6 +10,22 @@ I actively practice coding and build small projects to enhance my understanding.
 - Problem Solving
 - Basic Web Development
 
+##📊 Contribution Stats
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simple-26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com/?user=simple-26&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF6B35&currStreakLabel=FF0000"/>
+
+</td>
+</tr>
+</table>
+
 ## 📂 What You'll Find Here
 - Practice programs
 - Mini projects
