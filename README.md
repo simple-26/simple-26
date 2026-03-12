@@ -1,12 +1,9 @@
 # Hi, I'm Sai Pavan 👋
 
----
-
 ## 🚀 About Me
 I am an aspiring software developer focused on building strong programming fundamentals and improving problem-solving skills.  
 I actively practice coding and build small projects to enhance my understanding. 
 
----
 
 ## 💻 Skills
 - Programming Fundamentals
@@ -14,9 +11,7 @@ I actively practice coding and build small projects to enhance my understanding.
 - Problem Solving
 - Basic Web Development
   
----
 ## 📊Contribution Stats
-
 <table>
 <tr>
 <td>
@@ -32,29 +27,24 @@ I actively practice coding and build small projects to enhance my understanding.
 </tr>
 </table>
 
----
-
 ## 📂 What You'll Find Here
 - Practice programs
 - Mini projects
 - Learning experiments
 - Problem-solving solutions
 
----
 
 ## 📈 Currently Working On
 - Improving logical thinking
 - Building consistent coding habits
 - Exploring new technologies
 
----
-## Research Interests
 
+## Research Interests
 | Programming Fundamentals | Problem Solving | Web Development | Software Engineering |
 | --- | --- | --- | --- |
 | Learning core programming concepts and improving code structure | Practicing algorithms and logical thinking through coding challenges | Exploring HTML, CSS, and JavaScript to build interactive web applications | Understanding best practices for writing clean, maintainable, and scalable code |
 
----
 
 ## 🤝 Connect With Me
 Open to learning, collaboration, and entry-level opportunities.
